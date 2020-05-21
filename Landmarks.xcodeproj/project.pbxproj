@@ -13,6 +13,7 @@
 		988DB26E247641590082CE02 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 988DB26D247641590082CE02 /* Assets.xcassets */; };
 		988DB271247641590082CE02 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 988DB270247641590082CE02 /* Preview Assets.xcassets */; };
 		988DB274247641590082CE02 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 988DB272247641590082CE02 /* LaunchScreen.storyboard */; };
+		988DB27C247645260082CE02 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 988DB27B247645260082CE02 /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		988DB270247641590082CE02 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		988DB273247641590082CE02 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		988DB275247641590082CE02 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		988DB27B247645260082CE02 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				988DB269247641570082CE02 /* SceneDelegate.swift */,
 				988DB26B247641570082CE02 /* ContentView.swift */,
 				988DB26D247641590082CE02 /* Assets.xcassets */,
+				988DB27B247645260082CE02 /* CircleImage.swift */,
 				988DB272247641590082CE02 /* LaunchScreen.storyboard */,
 				988DB275247641590082CE02 /* Info.plist */,
 				988DB26F247641590082CE02 /* Preview Content */,
@@ -146,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				988DB268247641570082CE02 /* AppDelegate.swift in Sources */,
+				988DB27C247645260082CE02 /* CircleImage.swift in Sources */,
 				988DB26A247641570082CE02 /* SceneDelegate.swift in Sources */,
 				988DB26C247641570082CE02 /* ContentView.swift in Sources */,
 			);
